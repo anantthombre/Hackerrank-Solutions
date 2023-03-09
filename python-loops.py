@@ -1,4 +1,4 @@
-Link to the coding question -  https://www.hackerrank.com/challenges/python-loops
+# Link to the coding question -  https://www.hackerrank.com/challenges/python-loops
 
 if __name__ == '__main__':
     n = int(input())

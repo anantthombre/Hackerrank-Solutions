@@ -1,4 +1,4 @@
-#Link to the coding question -  https://www.hackerrank.com/challenges/finding-the-percentage
+# Link to the coding question -  https://www.hackerrank.com/challenges/finding-the-percentage
 
 
 if __name__ == '__main__':
